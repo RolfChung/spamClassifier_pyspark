@@ -1,5 +1,5 @@
 <p>
-This projects shows how a natural language processing algorithm can be used to determine emails as spam or not spam. This is a type of supervised learning. The data is a text corpus of emails either labeled as spam or not spam. The text in the labeled emails provides the features to classify an email as spam or not spam.
+This projects shows how natural language processing algorithms can be used to determine emails as spam or not spam. This is a type of supervised learning. The data is a text corpus of emails either labeled as spam or not spam. The text in the labeled emails provides the features to classify an email as spam or not spam.
 </p>
 
 <p>
